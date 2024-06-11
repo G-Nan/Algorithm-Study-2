@@ -35,8 +35,8 @@
   - Baekjoon/문제번호/문제명
  
 ### 파일 및 폴더 구조
-  - 유저명/**week/Programmers_문제번호_문제명.py
-  - 유저명/**week/Baekjoon_문제번호_문제명.py
+  - 이름/**week/Programmers_문제번호_문제명.py
+  - 이름/**week/Baekjoon_문제번호_문제명.py
 
 ## 🍀 Option
 
@@ -49,9 +49,9 @@
 
 #### Step 1 : Basic Level (String, Mathematics, etc.)
 
-|주차|G-Nan|chiwonH|P-oong|DONECHAE|
+|Week|G-Nan|chiwonH|P-oong|DONECHAE|
 |:---:|:---:|:---:|:---:|:---:|
-|1주차|[단어 공부](https://school.programmers.co.kr/learn/courses/30/lessons/155652)|[숫자의 합](https://www.acmicpc.net/problem/11720)|[뜨거운 붕어빵](https://www.acmicpc.net/problem/11945)|[핸드폰 번호 궁합](https://www.acmicpc.net/problem/17202)|
+|Week 1|[단어 공부](https://school.programmers.co.kr/learn/courses/30/lessons/155652)|[숫자의 합](https://www.acmicpc.net/problem/11720)|[뜨거운 붕어빵](https://www.acmicpc.net/problem/11945)|[핸드폰 번호 궁합](https://www.acmicpc.net/problem/17202)|
 
 ## 🍻 About Us
 |<img src="https://github.com/G-nan.png" width="80">|<img src="https://github.com/chiwonH.png" width="80">|<img src="https://github.com/P-oong.png" width="80">|<img src="https://github.com/DONECHAE.png" width="80">|
