@@ -51,7 +51,7 @@
 
 |Week|G-Nan|chiwonH|P-oong|DONECHAE|
 |:---:|:---:|:---:|:---:|:---:|
-|Week 1|[단어 공부](https://school.programmers.co.kr/learn/courses/30/lessons/155652)|[숫자의 합](https://www.acmicpc.net/problem/11720)|[뜨거운 붕어빵](https://www.acmicpc.net/problem/11945)|[핸드폰 번호 궁합](https://www.acmicpc.net/problem/17202)|
+|Week 1|[단어 공부](https://www.acmicpc.net/problem/1157)|[숫자의 합](https://www.acmicpc.net/problem/11720)|[뜨거운 붕어빵](https://www.acmicpc.net/problem/11945)|[핸드폰 번호 궁합](https://www.acmicpc.net/problem/17202)|
 
 ## 🍻 About Us
 |<img src="https://github.com/G-nan.png" width="80">|<img src="https://github.com/chiwonH.png" width="80">|<img src="https://github.com/P-oong.png" width="80">|<img src="https://github.com/DONECHAE.png" width="80">|
