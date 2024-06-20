@@ -54,7 +54,7 @@
 |Week|G-Nan|chiwonH|P-oong|DONECHAE|
 |:---:|:---:|:---:|:---:|:---:|
 |Week 1|[단어 공부](https://www.acmicpc.net/problem/1157)|[숫자의 합](https://www.acmicpc.net/problem/11720)|[뜨거운 붕어빵](https://www.acmicpc.net/problem/11945)|[핸드폰 번호 궁합](https://www.acmicpc.net/problem/17202)|
-
+|Week 2|[DNA 비밀번호](https://www.acmicpc.net/problem/12891)|[잃어버린 괄호](https://www.acmicpc.net/problem/1541)|[생태학](https://www.acmicpc.net/problem/4358)|[콰트로치즈피자](https://www.acmicpc.net/problem/27964)|
 ## 🍻 About Us
 |<img src="https://github.com/G-nan.png" width="80">|<img src="https://github.com/chiwonH.png" width="80">|<img src="https://github.com/P-oong.png" width="80">|<img src="https://github.com/DONECHAE.png" width="80">|
 |:---:|:---:|:---:|:---:|
