@@ -7,7 +7,7 @@
 
 - 기간 : 2024.06.05 ~
 - 장소 : Google Meet / Face to Face 
-- 시간 : 매주 수요일 20:00 ~ 22:00
+- 시간 : 매주 수요일 20:00 ~ 21:00
 - 참고 사이트 : [프로그래머스](https://programmers.co.kr/), [백준](https://www.acmicpc.net/)
 - 구성원 : G-Nan, chiwonH, P-oong, DONECHAE
 
