@@ -33,7 +33,8 @@
 - Commit
   - Programmers/문제번호/문제명
   - Baekjoon/문제번호/문제명
- 
+  - Update Files (파일 수정시)
+
 ### 파일 및 폴더 구조
   - 이름/**week/Programmers_문제번호_문제명.py
   - 이름/**week/Baekjoon_문제번호_문제명.py
@@ -55,8 +56,11 @@
 |:---:|:---:|:---:|:---:|:---:|
 |Week 1|[단어 공부](https://www.acmicpc.net/problem/1157)|[숫자의 합](https://www.acmicpc.net/problem/11720)|[뜨거운 붕어빵](https://www.acmicpc.net/problem/11945)|[핸드폰 번호 궁합](https://www.acmicpc.net/problem/17202)|
 |Week 2|[DNA 비밀번호](https://www.acmicpc.net/problem/12891)|[잃어버린 괄호](https://www.acmicpc.net/problem/1541)|[생태학](https://www.acmicpc.net/problem/4358)|[콰트로치즈피자](https://www.acmicpc.net/problem/27964)|
+|Week 2|[터렛](https://www.acmicpc.net/problem/1002)||[통계](https://www.acmicpc.net/problem/2108)||
+
+
 ## 🍻 About Us
 |<img src="https://github.com/G-nan.png" width="80">|<img src="https://github.com/chiwonH.png" width="80">|<img src="https://github.com/P-oong.png" width="80">|<img src="https://github.com/DONECHAE.png" width="80">|
 |:---:|:---:|:---:|:---:|
 |[G-Nan](https://github.com/G-Nan)|[chiwonH](https://github.com/chiwonH)|[P-oong](https://github.com/P-oong)|[DONECHAE](https://github.com/DONECHAE)|
-|Mathematics|Data Analysis|Statistics|Computer Vision|
+|Mathematics/Learning Theory|Data Analysis/Music|Statistics/Finance|Vision/Smart Farm|
