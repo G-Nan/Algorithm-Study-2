@@ -19,8 +19,7 @@ print(sqrt_N)
 
 
 # N = int(input().strip())
-
-# # 이진 탐색을 이용한 제곱근 계산
+#  이진 탐색을 이용한 제곱근 계산
 # low, high = 0, N
 # while low <= high:
 #     mid = (low + high) // 2
